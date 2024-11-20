@@ -11,7 +11,7 @@
 
 📫 How to reach me **Email: srijan.dastiku@gmail.com**
 
-⚡ Fun fact **There aint no funfact :(**
+⚡ Fun fact: **There aint no funfact :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
