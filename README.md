@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijanDas23&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanDas23" /> </p>
 
-🌱 I’m currently learning **React Native, Tailwind CSS, and Next JS**
-
-👯 looking to collaborate on **Any exciting fullstack projects.**
+🌱 I’m currently learning **Typescript, Tailwind CSS, and Next JS**
 
 👨‍💻 All of my projects are available at [my github](https://github.com/SrijanDas23)
 
